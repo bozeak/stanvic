@@ -21,8 +21,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 body {
 	line-height:1;
-	background-image: url('style/images/background-compressed.jpg');
+	background-image: url('style/images/background.jpg');
 	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center;
 }
 ol, ul {
 	list-style:none
