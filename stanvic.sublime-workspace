@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 9459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lucrari.html",
+			"settings":
+			{
+				"buffer_size": 7315,
+				"line_ending": "Windows",
+				"name": "lucrari.html"
+			}
+		},
+		{
+			"file": "ferestre.html",
+			"settings":
+			{
+				"buffer_size": 16957,
+				"line_ending": "Windows",
+				"name": "ferestre.html"
+			}
+		},
+		{
+			"file": "constructii.html",
+			"settings":
+			{
+				"buffer_size": 16541,
+				"line_ending": "Windows",
+				"name": "constructii.html"
+			}
+		},
+		{
+			"file": "usi.html",
+			"settings":
+			{
+				"buffer_size": 15855,
+				"line_ending": "Windows",
+				"name": "usi.html"
+			}
+		},
+		{
+			"file": "porti-sectionale.html",
+			"settings":
+			{
+				"buffer_size": 17550,
+				"line_ending": "Windows",
+				"name": "porti-sectionale.html"
+			}
+		},
+		{
+			"file": "rolete.html",
+			"settings":
+			{
+				"buffer_size": 17882,
+				"line_ending": "Windows",
+				"name": "rolete.html"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 4345,
+				"line_ending": "Windows",
+				"name": "about.html"
+			}
+		},
+		{
+			"file": "jaluzele.html",
+			"settings":
+			{
+				"buffer_size": 15243,
+				"line_ending": "Windows",
+				"name": "jaluzele.html"
+			}
+		},
+		{
+			"file": "jaluzele-orizontale.html",
+			"settings":
+			{
+				"buffer_size": 16544,
+				"line_ending": "Windows",
+				"name": "jaluzele-orizontale.html"
+			}
+		},
+		{
+			"file": "jaluzele-verticale.html",
+			"settings":
+			{
+				"buffer_size": 16544,
+				"line_ending": "Windows",
+				"name": "jaluzele-verticale.html"
+			}
+		},
+		{
+			"file": "rulouri-textile.html",
+			"settings":
+			{
+				"buffer_size": 16810,
+				"line_ending": "Windows",
+				"name": "rulouri-textile.html"
+			}
+		},
+		{
+			"file": "jaluzele-bambuc.html",
+			"settings":
+			{
+				"buffer_size": 16918,
+				"line_ending": "Windows",
+				"name": "jaluzele-bambuc.html"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 28062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 4806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 12569,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/stanvic/style/js/scripts.js",
+		"/C/xampp/htdocs/stanvic/portfolio3.html",
+		"/C/xampp/htdocs/stanvic/portfolio2.html",
+		"/C/Users/Ninely/Desktop/template/contact.html",
+		"/C/Users/Ninely/Desktop/template/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rulouri/textile",
+			"verticale/verticale",
+			"orizontale/orizontal",
+			"porti/poarta",
+			"col3",
+			"porti/poarta",
+			"ferestre/ferestre",
+			"usi/usa",
+			">\n",
+			"copy",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bambuc/bambuc",
+			"rulouri/textile",
+			"verticale/verticale",
+			"jaluzele/orizontale/orizontal",
+			"col2",
+			"rolete/rolete",
+			"constructii/casa",
+			"porti/poarta"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 9459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2605,
+								1447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lucrari.html",
+					"settings":
+					{
+						"buffer_size": 7315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2717,
+								2717
+							]
+						],
+						"settings":
+						{
+							"auto_name": "lucrari.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 313.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ferestre.html",
+					"settings":
+					{
+						"buffer_size": 16957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ferestre.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1033.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "constructii.html",
+					"settings":
+					{
+						"buffer_size": 16541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2696,
+								2696
+							]
+						],
+						"settings":
+						{
+							"auto_name": "constructii.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 389.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "usi.html",
+					"settings":
+					{
+						"buffer_size": 15855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "usi.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 763.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "porti-sectionale.html",
+					"settings":
+					{
+						"buffer_size": 17550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "porti-sectionale.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "rolete.html",
+					"settings":
+					{
+						"buffer_size": 17882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rolete.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 458.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 4345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3965,
+								3965
+							]
+						],
+						"settings":
+						{
+							"auto_name": "about.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1183.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "jaluzele.html",
+					"settings":
+					{
+						"buffer_size": 15243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jaluzele.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "jaluzele-orizontale.html",
+					"settings":
+					{
+						"buffer_size": 16544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jaluzele-orizontale.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 418.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "jaluzele-verticale.html",
+					"settings":
+					{
+						"buffer_size": 16544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jaluzele-verticale.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1033.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "rulouri-textile.html",
+					"settings":
+					{
+						"buffer_size": 16810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "rulouri-textile.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "jaluzele-bambuc.html",
+					"settings":
+					{
+						"buffer_size": 16918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"auto_name": "jaluzele-bambuc.html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 28062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7086,
+								7086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 22759.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "contact.html",
+					"settings":
+					{
+						"buffer_size": 4806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3826,
+								3826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "index2.html",
+					"settings":
+					{
+						"buffer_size": 12569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12521,
+								12521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4485.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
